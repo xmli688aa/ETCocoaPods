@@ -1,0 +1,29 @@
+{
+  "name": "TRUNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of TRUNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/szxiaobei/TRUNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "szxiaobei": "178888592@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/szxiaobei/TRUNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TRUNetworking/Classes/**/*",
+  "resources": "TRUNetworking/Assets/*.png",
+  "resource_bundles": {
+    "TRUNetworking": [
+      "TRUNetworking/**/*.{xib,png,xcassets}",
+      "TRUNetworking/Assets/*.png"
+    ]
+  }
+}
